@@ -1,4 +1,4 @@
-- 👋 Hi, I’m collaborator of @SwarajMohite
+- 👋 Hi
 - ⚡ Fun fact: Made with 🫶
 
 <!---
